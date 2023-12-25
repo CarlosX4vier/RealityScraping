@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RealityScraping.Job": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
